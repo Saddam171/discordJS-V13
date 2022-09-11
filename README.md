@@ -1,2 +1,1 @@
-# discordJS-V13
-base de um bot v13 prefixo
+# BOT-DISCORD-V13
